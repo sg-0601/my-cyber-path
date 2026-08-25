@@ -9,16 +9,29 @@ This repository documents my cybersecurity journey—from core networking and Li
 ```text
 my-cyber-path/
 │
+├── Books/
+│   └── Data Communications and Networking (5th Ed.)  # Personal reading copy; key points highlighted
+│
 ├── foundation/
 │   ├── Linux and its basic commands      # Linux fundamentals reference
 │   ├── Networking and its basic          # Networking fundamentals reference
-│   └── Python notes.pdf                  # Python reference notes
+│   └── Python notes.pdf                  # Python notes by CodeWithHarry
 │
 └── roadmap/
     └── Cybersecurity.ipynb               # Interactive master roadmap
 ```
 
-> The Linux and networking reference files are PDFs stored without a `.pdf` extension. Open them in a PDF reader.
+> The Linux and networking reference files are PDFs stored without a `.pdf` extension. Open them in a PDF reader. The Python notes are a PDF resource from CodeWithHarry.
+
+## 📖 Books & highlighted notes
+
+The `Books/` folder is my personal cybersecurity and IT reading library. It contains books I study during this journey, with important concepts and key points highlighted for quicker revision.
+
+| Book | Author | Focus |
+| --- | --- | --- |
+| *Data Communications and Networking* (5th Edition) | Behrouz A. Forouzan | Networking fundamentals, protocols, and data communication |
+
+The highlights mark the most important parts of each book for my own study and review. This folder will grow as I read more books and identify useful concepts for my cybersecurity foundation.
 
 ## 🗺️ Learning roadmap
 
@@ -78,6 +91,10 @@ Use legal, intentionally vulnerable training environments such as:
 ## ⚖️ Ethical-use notice
 
 This repository is for authorised education, research, and lab work only. Only test systems you own or have explicit written permission to assess. Never use the material here against real systems, accounts, networks, or data without authorisation.
+
+## ©️ Book-material notice
+
+Books and highlighted material are included only for personal study. Copyright remains with the respective authors and publishers. Please support authors by obtaining books through legitimate sources.
 
 ## 🎯 Goals for this journey
 
